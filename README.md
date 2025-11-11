@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/23484069/README.md)
 # Projeto de certificação DEVStart
 
-## Técnologia utilizada:
+## Tecnologia utilizada:
 <img width="225" height="225" alt="js" src="https://github.com/user-attachments/assets/021b892f-5e5e-4c70-b399-15ef1562d305" />
 
 ###  O projeto percorre, calcula e formata matrizes de notas de atletas. Faz o descarte da maior e menor nota e calcula a média das notas restantes, retornando a média válida da nota de cada atleta.
